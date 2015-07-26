@@ -1,7 +1,7 @@
 # Summary
 
 * [Book Info](README.md)
-* [Preface](preface.md)
+* [Preface](preface)
 * [General Aspects of Buddhism](general.md)
 * [Right Understanding in Daily Life](right.md)
 * [The Teaching of Dhamma](teaching.md)
