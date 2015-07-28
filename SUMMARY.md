@@ -9,7 +9,7 @@
 * [Mental Development](mental.md)
 * [The Buddha](buddha.md)
 * [The Dhamma](dhamma.md)
-* [The Sangha](sangha)
+* [The Sangha](sangha.md)
 * [Death](death)
 * [Life](life)
 * [The Development of Calm](calm)
