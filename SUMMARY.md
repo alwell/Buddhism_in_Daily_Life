@@ -21,5 +21,5 @@
 * [Right Concentration](concentration.md)
 * [The Highest Blessings](blessings.md)
 * [Glossary](glossary.md)
-* [Footnotes](footnotes)
+* [Footnotes](footnotes.md)
 
