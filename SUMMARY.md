@@ -20,6 +20,6 @@
 * [Right Mindfulness](mindfulness.md)
 * [Right Concentration](concentration.md)
 * [The Highest Blessings](blessings.md)
-* [Glossary](glossary)
+* [Glossary](glossary.md)
 * [Footnotes](footnotes)
 
