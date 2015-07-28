@@ -5,7 +5,7 @@
 * [General Aspects of Buddhism](general.md)
 * [Right Understanding in Daily Life](right.md)
 * [The Teaching of Dhamma](teaching.md)
-* [Wholesome Deeds](wholesome)
+* [Wholesome Deeds](wholesome.md)
 * [Mental Development](mental)
 * [The Buddha](buddha)
 * [The Dhamma](dhamma)
