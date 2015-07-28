@@ -6,7 +6,7 @@
 * [Right Understanding in Daily Life](right.md)
 * [The Teaching of Dhamma](teaching.md)
 * [Wholesome Deeds](wholesome.md)
-* [Mental Development](mental)
+* [Mental Development](mental.md)
 * [The Buddha](buddha)
 * [The Dhamma](dhamma)
 * [The Sangha](sangha)
