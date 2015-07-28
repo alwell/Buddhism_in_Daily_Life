@@ -22,4 +22,5 @@
 * [The Highest Blessings](blessings.md)
 * [Glossary](glossary.md)
 * [Footnotes](footnotes.md)
+* [Other books](books)
 
