@@ -19,7 +19,7 @@
 * [Right Effort](effort.md)
 * [Right Mindfulness](mindfulness.md)
 * [Right Concentration](concentration.md)
-* [The Highest Blessings](blessings)
+* [The Highest Blessings](blessings.md)
 * [Glossary](glossary)
 * [Footnotes](footnotes)
 
