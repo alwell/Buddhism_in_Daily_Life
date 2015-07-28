@@ -8,7 +8,7 @@
 * [Wholesome Deeds](wholesome.md)
 * [Mental Development](mental.md)
 * [The Buddha](buddha.md)
-* [The Dhamma](dhamma)
+* [The Dhamma](dhamma.md)
 * [The Sangha](sangha)
 * [Death](death)
 * [Life](life)
