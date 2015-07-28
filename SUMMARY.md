@@ -18,7 +18,7 @@
 * [Factors of the Eightfold Path](factors.md)
 * [Right Effort](effort.md)
 * [Right Mindfulness](mindfulness.md)
-* [Right Concentration](concentration)
+* [Right Concentration](concentration.md)
 * [The Highest Blessings](blessings)
 * [Glossary](glossary)
 * [Footnotes](footnotes)
