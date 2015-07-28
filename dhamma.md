@@ -58,16 +58,16 @@ be followed by death. We read in the Kindred Sayings (II, Nidāna-vagga,
 Ch XV, part 1, par 3, Tears) that the Buddha, while he was in the Jeta
 Grove, near Sāvatthī, said to the monks:
 
-Incalculable is the beginning, monks, of this faring on. The earliest
+> Incalculable is the beginning, monks, of this faring on. The earliest
 point is not revealed of the running on, faring on, of beings cloaked in
 ignorance, tied to craving.
 
-As to that, what do you think, monks? Which is greater, the flood of
+> As to that, what do you think, monks? Which is greater, the flood of
 tears shed by you crying and weeping as you fare on, run on this long
 while, united as you have been with the undesirable, separated as you
 have been from the desirable, or the waters in the four seas?
 
-…For many a long day, monks, have you experienced the death of mother,
+> …For many a long day, monks, have you experienced the death of mother,
 of son, of daughter, have you experienced the ruin of kinsfolk, of
 wealth, the calamity of disease. Greater is the flood of tears shed by
 you crying and weeping over one and all of these, as you fare on, run on
