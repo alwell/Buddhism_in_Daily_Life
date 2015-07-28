@@ -3,7 +3,7 @@
 * [Book Info](README.md)
 * [Preface](preface.md)
 * [General Aspects of Buddhism](general.md)
-* [Right Understanding in Daily Life](right)
+* [Right Understanding in Daily Life](right.md)
 * [The Teaching of Dhamma](teaching)
 * [Wholesome Deeds](wholesome)
 * [Mental Development](mental)
