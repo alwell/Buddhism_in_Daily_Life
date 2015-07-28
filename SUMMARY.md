@@ -10,7 +10,7 @@
 * [The Buddha](buddha.md)
 * [The Dhamma](dhamma.md)
 * [The Sangha](sangha.md)
-* [Death](death)
+* [Death](death.md)
 * [Life](life)
 * [The Development of Calm](calm)
 * [Vipassanā](vipassana)
