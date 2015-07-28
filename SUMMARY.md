@@ -12,7 +12,7 @@
 * [The Sangha](sangha.md)
 * [Death](death.md)
 * [Life](life.md)
-* [The Development of Calm](calm)
+* [The Development of Calm](calm.md)
 * [Vipassanā](vipassana)
 * [The Eightfold Path](path)
 * [Factors of the Eightfold Path](factors)
