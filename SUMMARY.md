@@ -7,7 +7,7 @@
 * [The Teaching of Dhamma](teaching.md)
 * [Wholesome Deeds](wholesome.md)
 * [Mental Development](mental.md)
-* [The Buddha](buddha)
+* [The Buddha](buddha.md)
 * [The Dhamma](dhamma)
 * [The Sangha](sangha)
 * [Death](death)
