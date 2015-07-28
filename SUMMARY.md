@@ -16,7 +16,7 @@
 * [Vipassanā](vipassana.md)
 * [The Eightfold Path](path.md)
 * [Factors of the Eightfold Path](factors.md)
-* [Right Effort](effort)
+* [Right Effort](effort.md)
 * [Right Mindfulness](mindfulness)
 * [Right Concentration](concentration)
 * [The Highest Blessings](blessings)
