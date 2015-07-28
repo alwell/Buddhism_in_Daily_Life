@@ -11,7 +11,7 @@
 * [The Dhamma](dhamma.md)
 * [The Sangha](sangha.md)
 * [Death](death.md)
-* [Life](life)
+* [Life](life.md)
 * [The Development of Calm](calm)
 * [Vipassanā](vipassana)
 * [The Eightfold Path](path)
