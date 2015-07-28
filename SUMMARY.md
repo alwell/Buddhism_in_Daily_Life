@@ -15,7 +15,7 @@
 * [The Development of Calm](calm.md)
 * [Vipassanā](vipassana.md)
 * [The Eightfold Path](path.md)
-* [Factors of the Eightfold Path](factors)
+* [Factors of the Eightfold Path](factors.md)
 * [Right Effort](effort)
 * [Right Mindfulness](mindfulness)
 * [Right Concentration](concentration)
