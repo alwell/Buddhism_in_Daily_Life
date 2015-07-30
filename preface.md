@@ -10,7 +10,7 @@ their tolerance and their wise attitude towards the problems of life. I
 was also impressed by the earnestness and dedication of the monks who
 lead a life of simplicity, “contented with little”, and who try to
 realize the Buddhist teachings in their daily lives. When I visited the
-temples in Thailand, I saw Buddhism being lived in daily life.[^1]
+temples in Thailand, I saw Buddhism being lived in daily life.
 
 And so, I wanted to study Buddhism. We are inclined to think that
 Buddhism is only a religion for people living in an oriental culture,
@@ -127,6 +127,6 @@ peace.
 
 May the Dhamma be the greatest blessing in our lives,
 
-[^1]: note
+
 
 Nina van Gorkom
